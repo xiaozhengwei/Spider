@@ -1,7 +1,5 @@
 import requests
-r=requests.get("https://www.baidu.com")
-print(type(r))
-print(r.status_code)
-print(type(r.text))
+
+data={'name':'germey','age':'22'}
+r=requests.post("http://httpbin.org/post",data=data)
 print(r.text)
-print(r.cookies)
