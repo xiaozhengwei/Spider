@@ -1,0 +1,30 @@
+# 基本库的使用
+
+## urllib
+
+###  urlopen():
+
+```python
+import urllib.request as ur
+response=ur.urlopen('https://www.python.org')
+print(response.read().decode('utf-8'))
+```
+
+
+
+
+
+
+
+## requests
+
+```python
+import requests
+r=requests.get("https://www.baidu.com")
+print(type(r))
+print(r.status_code)
+print(type(r.text))
+print(r.text)
+print(r.cookies)
+```
+
