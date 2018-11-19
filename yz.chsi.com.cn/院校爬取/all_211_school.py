@@ -4,7 +4,6 @@
 """
 import requests
 import re
-import csv
 import pandas as pd
 headers={
     'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'
@@ -38,4 +37,4 @@ for i in range(6):
             else:
                 school_subjection.append(text)
 datas=pd.DataFrame({"大学名称":school_name,"大学所在省份":school_province,"大学隶属":school_subjection})
-print(datas.to_csv('school.csv',encoding='utf_8_sig',index=False,sep=','))
+print(datas.to_csv('all_211_school.csv',encoding='utf_8_sig',index=False,sep=','))

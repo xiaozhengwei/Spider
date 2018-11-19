@@ -1,8 +1,10 @@
 网络爬虫
 
-使用的工具:
-
+准备工作:
 - python解释器,
+
+可能要用到使用的工具:
+
 - ChromeDriver
 - GeckoDriver
 - PhantomJS
@@ -15,7 +17,7 @@
 
 
 
-使用到python库
+可能会用到的python库
 - urllib
 - requests
 - selenium
