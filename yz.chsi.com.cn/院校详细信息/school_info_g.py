@@ -75,15 +75,16 @@ researchs = []
 study_types = []
 # 人数
 peoples = []
+# 详情超链接
+major_info=[]
 i=0
 search=""
 for dwmc in dwmcs:
     for d in dwmcs[dwmc]:
         for yjxkdm in yjxkdms:
             for zymc in dirct[yjxkdm]:
-                if(i%100==0):
+                if(i%100==1):
                     time.sleep(10)
-                    i+=1
                 try:
                     headers = {
                         'User-Agent': "{}".format(headersinfo[random.randint(0,3)])
@@ -109,12 +110,10 @@ for dwmc in dwmcs:
                         major=[tds[2]]
                         # 研究方向
                         research=[tds[3]]
-                        # 学习方式
-                        study_type=[tds[4]]
-                        # 人数
-                        people=[tds[6]]
-                        dfdata=pd.DataFrame({"学校":school,"考试方式":test_type,"院系所":college,"专业":major,"研究方向":research,"学习方式":study_type,"人数":people })
-                        dfdata.to_csv('school_info.csv',encoding='utf_8_sig',mode='a',header=False)
+                        #专业详情
+                        major_info=[tds[7]]
+                        dfdata=pd.DataFrame({"学校":school,"考试方式":test_type,"院系所":college,"专业":major,"研究方向":research,"专业详情":major_info})
+                        dfdata.to_csv('school_info.csv',index=False,encoding='utf_8_sig',mode='a',header=False)
                 except:
                     print("*************")
                     print(search);
