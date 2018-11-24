@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cba82f34-34d4-4bcd-ae23-f711739840bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/yz.chsi.com.cn/数据处理/school_info_li.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yz.chsi.com.cn/数据处理/school_info_zy.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/school_info_li2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/school_info_zy2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yz.chsi.com.cn/院校详细信息/school_info_zy.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/major.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/school_info.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yz.chsi.com.cn/院校爬取/all_school_homepage.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yz.chsi.com.cn/院校爬取/db_insert_211.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yz.chsi.com.cn/院校爬取/db_link.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yz.chsi.com.cn/院校爬取/db_update_985.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yz.chsi.com.cn/数据处理/VS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yz.chsi.com.cn/数据处理/change.py" beforeDir="false" afterPath="$PROJECT_DIR$/yz.chsi.com.cn/数据处理/change.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/Demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/Demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/add.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yz.chsi.com.cn/院校详细信息/school_info_g.py" beforeDir="false" afterPath="$PROJECT_DIR$/yz.chsi.com.cn/院校详细信息/school_info_g.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,12 +21,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/WebCrawler$school_info_g.coverage" NAME="school_info_g Coverage Results" MODIFIED="1542704766605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yz.chsi.com.cn/院校详细信息" />
+    <SUITE FILE_PATH="coverage/WebCrawler$school_info_g.coverage" NAME="school_info_g Coverage Results" MODIFIED="1543045523371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yz.chsi.com.cn/院校详细信息" />
     <SUITE FILE_PATH="coverage/WebCrawler$db_update.coverage" NAME="db_update Coverage Results" MODIFIED="1542526698758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yz.chsi.com.cn" />
     <SUITE FILE_PATH="coverage/WebCrawler$school_info.coverage" NAME="school_info Coverage Results" MODIFIED="1542596148371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yz.chsi.com.cn/院校详细信息" />
     <SUITE FILE_PATH="coverage/WebCrawler$VS.coverage" NAME="VS Coverage Results" MODIFIED="1542728178467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yz.chsi.com.cn/数据处理" />
     <SUITE FILE_PATH="coverage/WebCrawler$explore_today_hot.coverage" NAME="explore_today_hot Coverage Results" MODIFIED="1542503553854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www.zhihu.com" />
-    <SUITE FILE_PATH="coverage/WebCrawler$Demo.coverage" NAME="Demo Coverage Results" MODIFIED="1542762230092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目" />
+    <SUITE FILE_PATH="coverage/WebCrawler$Demo.coverage" NAME="Demo Coverage Results" MODIFIED="1543045925652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目" />
     <SUITE FILE_PATH="coverage/WebCrawler$66.coverage" NAME="66 Coverage Results" MODIFIED="1542463698722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/123" />
     <SUITE FILE_PATH="coverage/WebCrawler$All211School.coverage" NAME="All211School Coverage Results" MODIFIED="1542520355151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yz.chsi.com.cn" />
     <SUITE FILE_PATH="coverage/WebCrawler$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1542713615038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yz.chsi.com.cn/数据处理" />
@@ -32,7 +35,7 @@
     <SUITE FILE_PATH="coverage/WebCrawler$Test.coverage" NAME="Test Coverage Results" MODIFIED="1542727110290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/WebCrawler$all_985_school.coverage" NAME="all_985_school Coverage Results" MODIFIED="1542530569336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yz.chsi.com.cn" />
     <SUITE FILE_PATH="coverage/WebCrawler$all_school_homepage.coverage" NAME="all_school_homepage Coverage Results" MODIFIED="1542530599871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yz.chsi.com.cn" />
-    <SUITE FILE_PATH="coverage/WebCrawler$change.coverage" NAME="change Coverage Results" MODIFIED="1542728945414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yz.chsi.com.cn/数据处理" />
+    <SUITE FILE_PATH="coverage/WebCrawler$change.coverage" NAME="change Coverage Results" MODIFIED="1543045871220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yz.chsi.com.cn/数据处理" />
     <SUITE FILE_PATH="coverage/WebCrawler$db_insert.coverage" NAME="db_insert Coverage Results" MODIFIED="1542526593420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yz.chsi.com.cn" />
     <SUITE FILE_PATH="coverage/WebCrawler$__init.coverage" NAME="__init Coverage Results" MODIFIED="1542713658166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yz.chsi.com.cn/数据处理" />
     <SUITE FILE_PATH="coverage/WebCrawler$school_info_0812.coverage" NAME="school_info_0812 Coverage Results" MODIFIED="1542605724701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yz.chsi.com.cn/院校详细信息" />
@@ -57,21 +60,21 @@
         <counts>
           <entry key="WebCrawlerNotes" value="3" />
           <entry key="all_school_homepage" value="1" />
-          <entry key="csv" value="267" />
+          <entry key="csv" value="307" />
           <entry key="csv___jb_old___" value="1" />
           <entry key="ico" value="1" />
           <entry key="md" value="3" />
-          <entry key="py" value="77" />
+          <entry key="py" value="91" />
           <entry key="pyi" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSV" value="264" />
+          <entry key="CSV" value="304" />
           <entry key="Image" value="1" />
           <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="77" />
+          <entry key="Python" value="91" />
           <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
@@ -91,18 +94,18 @@
         <counts>
           <entry key="All211School" value="1" />
           <entry key="Python Console" value="9" />
-          <entry key="csv" value="118" />
+          <entry key="csv" value="160" />
           <entry key="dummy" value="52" />
           <entry key="md" value="54" />
-          <entry key="py" value="10140" />
+          <entry key="py" value="10290" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSV" value="118" />
+          <entry key="CSV" value="160" />
           <entry key="Markdown" value="54" />
           <entry key="PLAIN_TEXT" value="52" />
-          <entry key="Python" value="10144" />
+          <entry key="Python" value="10294" />
           <entry key="RegExp" value="5" />
           <entry key="SQL" value="1" />
         </counts>
@@ -112,47 +115,27 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/院校爬取/all_985_school.py">
+        <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/数据处理/change.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="30" column="49" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/院校爬取/all_211_school.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="39" column="60" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/院校爬取/all_211_school.csv">
-          <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="1442">
-              <caret line="116" column="13" selection-start-line="116" selection-start-column="13" selection-end-line="116" selection-end-column="13" />
+            <state relative-caret-position="112">
+              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/院校爬取/all_985_school.csv">
+        <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/school_info_li2_major.csv">
           <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="173">
-              <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+            <state relative-caret-position="230">
+              <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/院校爬取/all_school_homepage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-            </state>
+        <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/school_info_li2.csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="-540" />
           </provider>
         </entry>
       </file>
@@ -202,14 +185,22 @@
         <option value="$PROJECT_DIR$/yz.chsi.com.cn/院校详细信息/school_info.csv" />
         <option value="$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/kaoshi.csv" />
         <option value="$PROJECT_DIR$/Test.py" />
-        <option value="$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/Demo.py" />
         <option value="$PROJECT_DIR$/yz.chsi.com.cn/数据处理/VS.py" />
-        <option value="$PROJECT_DIR$/yz.chsi.com.cn/数据处理/change.py" />
-        <option value="$PROJECT_DIR$/yz.chsi.com.cn/院校详细信息/school_info_g.py" />
         <option value="$PROJECT_DIR$/yz.chsi.com.cn/数据处理/school_info.csv" />
         <option value="$PROJECT_DIR$/yz.chsi.com.cn/数据处理/school_info_2.csv" />
         <option value="$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/major.csv" />
         <option value="$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/add.py" />
+        <option value="$PROJECT_DIR$/yz.chsi.com.cn/院校详细信息/school_info2.csv" />
+        <option value="$PROJECT_DIR$/yz.chsi.com.cn/数据处理/school_info_zy.csv" />
+        <option value="$PROJECT_DIR$/yz.chsi.com.cn/数据处理/school_info_zy2.csv" />
+        <option value="$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/school_info_zy2.csv" />
+        <option value="$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/school_info_zy2_major.csv" />
+        <option value="$PROJECT_DIR$/yz.chsi.com.cn/院校详细信息/school_info_g.py" />
+        <option value="$PROJECT_DIR$/yz.chsi.com.cn/院校详细信息/school_info_li.csv" />
+        <option value="$PROJECT_DIR$/yz.chsi.com.cn/数据处理/change.py" />
+        <option value="$PROJECT_DIR$/yz.chsi.com.cn/数据处理/school_info_li2.csv" />
+        <option value="$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/Demo.py" />
+        <option value="$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/school_info_li2_major.csv" />
       </list>
     </option>
   </component>
@@ -225,9 +216,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="440" />
-    <option name="y" value="100" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="572" />
+    <option name="y" value="38" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -252,7 +243,13 @@
               <item name="WebCrawler" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebCrawler" type="462c0819:PsiDirectoryNode" />
               <item name="yz.chsi.com.cn" type="462c0819:PsiDirectoryNode" />
-              <item name="院校爬取" type="462c0819:PsiDirectoryNode" />
+              <item name="数据处理" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebCrawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebCrawler" type="462c0819:PsiDirectoryNode" />
+              <item name="yz.chsi.com.cn" type="462c0819:PsiDirectoryNode" />
+              <item name="更新考试科目" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebCrawler" type="b2602c69:ProjectViewProjectNode" />
@@ -282,16 +279,16 @@
     <option name="myUseExistingConsole" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ViFullCoder\Desktop\GitHub\WebCrawler\yz.chsi.com.cn\数据处理" />
+      <recent name="C:\Users\ViFullCoder\Desktop\GitHub\WebCrawler\yz.chsi.com.cn\院校爬取" />
+      <recent name="C:\Users\ViFullCoder\Desktop\GitHub\WebCrawler" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ViFullCoder\Desktop\GitHub\WebCrawler\yz.chsi.com.cn\更新考试科目" />
       <recent name="C:\Users\ViFullCoder\Desktop\GitHub\WebCrawler\yz.chsi.com.cn\数据处理" />
       <recent name="C:\Users\ViFullCoder\Desktop\GitHub\WebCrawler\yz.chsi.com.cn\院校详细信息" />
       <recent name="C:\Users\ViFullCoder\Desktop\GitHub\WebCrawler\yz.chsi.com.cn" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ViFullCoder\Desktop\GitHub\WebCrawler\yz.chsi.com.cn\数据处理" />
-      <recent name="C:\Users\ViFullCoder\Desktop\GitHub\WebCrawler\yz.chsi.com.cn\院校爬取" />
-      <recent name="C:\Users\ViFullCoder\Desktop\GitHub\WebCrawler" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -373,28 +370,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="__init" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="WebCrawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yz.chsi.com.cn/数据处理" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\ViFullCoder\Desktop\GitHub\WebCrawler\yz.chsi.com.cn\数据处理\change.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="change" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="WebCrawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -417,20 +392,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="school_info_g" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WebCrawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yz.chsi.com.cn/院校详细信息" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yz.chsi.com.cn/院校详细信息/school_info_g.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Demo" />
-      <item itemvalue="Python.__init" />
       <item itemvalue="Python.change" />
       <item itemvalue="Python.Test" />
       <item itemvalue="Python.VS" />
+      <item itemvalue="Python.school_info_g" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Demo" />
         <item itemvalue="Python.change" />
+        <item itemvalue="Python.school_info_g" />
         <item itemvalue="Python.VS" />
         <item itemvalue="Python.Test" />
-        <item itemvalue="Python.__init" />
       </list>
     </recent_temporary>
   </component>
@@ -469,7 +466,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.3385269" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.39518413" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -571,46 +568,6 @@
     <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/数据处理/__init.csv" />
     <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/666.csv" />
     <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/数据处理/666.csv" />
-    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/院校详细信息/school_info.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="641">
-          <caret line="1520" column="5" selection-start-line="1520" selection-start-column="5" selection-end-line="1520" selection-end-column="5" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="-41481">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/数据处理/change.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/数据处理/school_info.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state>
-          <caret selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/数据处理/school_info_2.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/数据处理/VS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/python36/Lib/site-packages/pymysql/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -646,38 +603,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/add.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="10" selection-start-line="2" selection-start-column="40" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/Demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/院校详细信息/school_info_g.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="115" column="110" selection-start-line="115" selection-start-column="105" selection-end-line="115" selection-end-column="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/院校详细信息/all_211_school.csv">
-      <provider editor-type-id="csv-text-editor">
-        <state relative-caret-position="28">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/院校爬取/all_985_school.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
@@ -689,18 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="457">
           <caret line="39" column="60" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/院校爬取/all_211_school.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="1442">
-          <caret line="116" column="13" selection-start-line="116" selection-start-column="13" selection-end-line="116" selection-end-column="13" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -732,6 +645,154 @@
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="173">
           <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/add.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/院校爬取/all_211_school.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="1442">
+          <caret line="116" column="13" selection-start-line="116" selection-start-column="13" selection-end-line="116" selection-end-column="13" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/院校详细信息/school_info.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="621">
+          <caret line="1520" column="5" selection-start-line="1520" selection-start-column="5" selection-end-line="1520" selection-end-column="5" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-41481">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/院校详细信息/all_211_school.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="28">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/数据处理/VS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/数据处理/school_info.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state>
+          <caret selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/数据处理/school_info_2.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/数据处理/school_info_zy2.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-21582" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/数据处理/school_info_zy.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state>
+          <caret selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/院校详细信息/school_info_zy.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="4368">
+          <caret line="156" column="38" selection-start-line="156" selection-start-column="38" selection-end-line="156" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/school_info_zy2_major.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/院校详细信息/school_info_g.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="123" column="23" selection-start-line="123" selection-start-column="23" selection-end-line="123" selection-end-column="23" />
+          <folding>
+            <element signature="e#1996#2032#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/院校详细信息/school_info_li.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/school_info_li.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/数据处理/school_info_li2.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/Demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="40" column="21" lean-forward="true" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/数据处理/school_info_li.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state>
+          <caret selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/数据处理/change.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/school_info_zy2.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-1848">
+          <caret selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/school_info_li2.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yz.chsi.com.cn/更新考试科目/school_info_li2_major.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="230">
+          <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
         </state>
       </provider>
     </entry>

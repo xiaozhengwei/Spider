@@ -1,6 +1,6 @@
 import pandas as pd
 import re
-pdcsv=pd.read_csv('school_info.csv')
+pdcsv=pd.read_csv('school_info_li.csv')
 values=pdcsv.values
 count=0
 for value in values:
@@ -10,5 +10,5 @@ for value in values:
     if(pattern.group(1)=="" or pattern.group(1)==None):
         print(value)
     value[5]="https://yz.chsi.com.cn"+pattern.group(1)
-pdcsv.to_csv('school_info.csv',index=False,encoding='utf_8_sig',mode='a',header=False)
+pdcsv.to_csv('school_info_li2.csv',index=False,encoding='utf_8_sig',mode='a',header=False)
 print(count)
