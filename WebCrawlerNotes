@@ -3,18 +3,11 @@
 ## urllib
 
 ###  urlopen():
-
 ```python
 import urllib.request as ur
 response=ur.urlopen('https://www.python.org')
 print(response.read().decode('utf-8'))
 ```
-
-
-
-
-
-
 
 ## requests
 

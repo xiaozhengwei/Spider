@@ -11,4 +11,3 @@ for value in values:
         print(value)
     value[5]="https://yz.chsi.com.cn"+pattern.group(1)
 pdcsv.to_csv('school_info_li2.csv',index=False,encoding='utf_8_sig',mode='a',header=False)
-print(count)
