@@ -28,13 +28,14 @@ for i in range(6):
         content=re.sub('\s+','',result)
         tds =re.findall('<td.*?>(.*?)</td>',content,re.S)
         list=[]
-        for i in range(3):
+        for j in range(3):
             text=re.sub('<a(.*?)>|</a>|进入|查询|','', tds[i])
-            if(i==0):
+            if(j==0):
                 school_name.append(text)
-            elif(i==1):
+            elif(j==1):
                 school_province.append(text)
             else:
                 school_subjection.append(text)
+            print(i)
 datas=pd.DataFrame({"大学名称":school_name,"大学所在省份":school_province,"大学隶属":school_subjection})
-print(datas.to_csv('all_211_school.csv',encoding='utf_8_sig',index=False,sep=','))
+datas.to_csv(r'/home/python/all_985_school.csv',encoding='utf_8_sig',index=False,sep=',')

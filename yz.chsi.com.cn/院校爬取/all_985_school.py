@@ -14,7 +14,7 @@ school_subjection = []
 for i in range(2):
     r=requests.get("https://yz.chsi.com.cn/sch/search.do?b985=1&start={}".format(i*20),headers=headers)
     print(r)
-    pattern=re.search('<tbody>(.*?)</tbody>',r.text,re.S)
+    pattern7K=re.search('<tbody>(.*?)</tbody>',r.text,re.S)
     results=re.findall('<tr>(.*?)</tr>',pattern.group(1),re.S)
 
     # clear_results=[re.sub('\s+|进入|查询|<a(.*?)>|</a>',"",result) for result in results]
